@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Database
+db/*.db
+
+# Environment
+.env
+.env.test
+
+# Build
+build
+db/migrations/20231211180545_users.ts
+db/migrations/20231211185408_meals.ts
